@@ -97,3 +97,6 @@ print("Your protein sequence is:")
 print(protein_sequence)
 print("We're now checking if your protein sequence is correct...")
 utilities.check_protein(protein_sequence) # We're now checking your protein sequence
+
+print("\n")
+print("Congratulations! You've successfully completed the introduction to Python!")
