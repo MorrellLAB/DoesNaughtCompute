@@ -21,7 +21,7 @@ print("\n")
 #       Use the upper method of the string `sequence' to do this; store this as the variable sequence
 #       Remember: Python starts counting at 0 and slices are partially inclusive
 
-sequence = sequence.upper()
+# Use the upper method to change the sequence in to uppercase
 
 print("The first 50 nucleotides in upper case are:")
 # Print the first 50 nucleotides of the sequence in uppercase
