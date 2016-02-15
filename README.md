@@ -1,6 +1,5 @@
 # DoesNaughtCompute
 ## Code and example datasets for Does[0]Compute?
----
 
 ## Introduction\_to\_Python
 ### 2/12/2016
