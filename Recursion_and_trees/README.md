@@ -6,3 +6,5 @@
 Date: February 26, 2016
 
 ---
+
+[Advanced Python for Biologists - Book's Exercise Files](http://pythonforbiologists.com/index.php/exercise-files/)
