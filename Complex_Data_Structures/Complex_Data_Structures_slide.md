@@ -45,7 +45,7 @@
 ```
 
 ```python 
-#lists of lists, matrix 
+#Lists of lists, matrix 
 >>>  L = [   
     ...    [1, 2, 3, 4],
     ...    [5, 6, 7, 8],
@@ -54,7 +54,7 @@
 ``` 
 
 ```python
-#index
+#Index
 >>> print (L[1])   
 [5, 6, 7, 8] 
 >>> print (L[1][2])   
@@ -63,18 +63,18 @@
 
 #Operations of lists  
 ```python
-#concatenate  
+#Concatenate  
 >>> [1,2,3] + [4,5,6]
 [1, 2, 3, 4, 5, 6] 
 ```
 ```python
-#repeat 
+#Repeat 
 >>> ['Li']*4  
 ['Li', 'Li', 'Li', 'Li'] 
 ```
 
 ```python
-#iteration 
+#Iteration 
 >>> for x in L:    
         print (x) 
          
@@ -135,7 +135,7 @@ Tom
 
 
 ```python
-#iteration 
+#Iteration 
 >>> for e in T: 
         print (e)
            
@@ -145,7 +145,7 @@ Tom
 ```
 
 ```python
-#index 
+#Index 
 >>> T.index(('Tom','Chaochih'))   
 1  
 
@@ -184,47 +184,51 @@ AttributeError: 'tuple' object has no attribute
 |3. |3. |
 
 #Sets 
-A empty set 
-```
+
+```python
+#A empty set 
 >>> S = {}    
 
-straightforward construct a set 
+#Straightforward construct a set 
 >>> S = {1,2,3}  
  
-convert to set 
+#Convert to set 
 >>> l = [1,2,3]   
 >>> S = set(l)   
 >>> S   
 {1, 2, 3} 
  
-uniq 
+#Uniq 
 >>> l = [1,2,3,3]   
 >>> S = set(l)   
 >>> S    
 {1, 2, 3}  
 ```
+
 #Set operations 
 ```python
-#fast membership testing 
+#Fast membership testing 
 >>> 1 in s   
 True   
 >>> 4 in s   
 False 
   
 >>> set1 = set(['Shawn','Paul','Chaochih','Tom','Li','Jeff'])   
->>> set2 = set(['Felipe','Skylar','Paul','Chaochih','Peter','Ana'])   
-#union 
+>>> set2 = set(['Felipe','Skylar','Paul','Chaochih','Peter','Ana'])
+   
+#Union 
 >>> set1 |set2   
 {'Chaochih', 'Li', 'Paul', 'Jeff', 'Felipe', 'Peter', 'Skylar', 'Shawn', 'Ana', 'Tom'} 
-#intersection 
+
+#Intersection 
 >>> set1 & set2  
 {'Chaochih', 'Paul'} 
  
-#difference 
+#Difference 
 >>> set1 - set2   
 {'Shawn', 'Tom', 'Li', 'Jeff'} 
  
-#symmetric difference (elements that are in the first set and the second, but not in both) 
+#Symmetric difference (elements that are in the first set and the second, but not in both) 
 >>> set1 ^ set2   
 {'Tom', 'Felipe', 'Peter', 'Li', 'Skylar', 'Shawn', 'Ana', 'Jeff'} 
 ```
