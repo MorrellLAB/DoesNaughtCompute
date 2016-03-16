@@ -55,6 +55,7 @@ Four items : indexes 0..3
     ...    ] 
 ``` 
 
+
 index
 ```python
 >>> print (L[1])   
@@ -88,18 +89,23 @@ Methods
 >>> L.append(4)   
 >>> print (L)   
 [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], 4]  
+
 >>> L.extend([13,14,15,16])   
 >>> print (L)  
 [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], 13, 14, 15, 16]  
+
 >>>L.pop()   
 [9, 10, 11,12]   
+
 >>> seq = ['A','G','T','C','G','G','T']   
 >>> seq.reverse()   
 >>> print (seq)   
-['T', 'G', 'G', 'C', 'T', 'G', 'A']   
+['T', 'G', 'G', 'C', 'T', 'G', 'A'] 
+  
 >>> seq.insert(2,'basepairs')   
 >>> print (seq)   
-['A', 'G', 'basepairs', 'T', 'C', 'G', 'G', 'T']   
+['A', 'G', 'basepairs', 'T', 'C', 'G', 'G', 'T'] 
+  
 >>> del L[1:] 
 >>> print (L)  
 [[1, 2, 3, 4]]   
@@ -127,13 +133,15 @@ Tom
 ```
  
 
->>>#####Iteration 
->>> `for e in T:` 
->>>> `print (e)`   
+iteration 
+```python
+>>> for e in T: 
+        print (e)
+           
 ('Li', 'Jeff')  
 ('Tom', 'Chaochih')   
 ('Paul', 'Shawn')
-  
+```
 >>>#####index 
 >>> `T.index(('Tom','Chaochih'))`   
 1  
