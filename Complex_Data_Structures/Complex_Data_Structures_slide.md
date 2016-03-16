@@ -133,8 +133,9 @@ Tom
 ```
  
 
-iteration 
+
 ```python
+#iteration 
 >>> for e in T: 
         print (e)
            
@@ -142,8 +143,9 @@ iteration
 ('Tom', 'Chaochih')   
 ('Paul', 'Shawn')
 ```
-index 
+
 ```python
+#index 
 >>> T.index(('Tom','Chaochih'))   
 1  
 
