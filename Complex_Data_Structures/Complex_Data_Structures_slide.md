@@ -53,9 +53,8 @@
     ...    ] 
 ``` 
 
-
-index
 ```python
+#index
 >>> print (L[1])   
 [5, 6, 7, 8] 
 >>> print (L[1][2])   
@@ -63,17 +62,17 @@ index
 ```
 
 #Operations of lists  
-concatenate  
 ```python
+#concatenate  
 >>> [1,2,3] + [4,5,6]
 [1, 2, 3, 4, 5, 6] 
 ```
-repeat 
+#repeat 
 ```python
 >>> ['Li']*4  
 ['Li', 'Li', 'Li', 'Li'] 
 ```
-iteration 
+#iteration 
 ```python
 >>> for x in L:    
         print (x) 
@@ -109,16 +108,17 @@ Methods
 [[1, 2, 3, 4]]   
 ```
 #Tuples  
-An empty tuple 
 ```python
+#An empty tuple 
 >>> T = ()
 ```  
-A four-item tuple 
+
 ```python
+#A four-item tuple 
 >>> T = (0,'Li','2','apples')  
 ```
-Nested tuples 
 ```python
+#Nested tuples 
 >>> T = (  
  ...    ('Li','Jeff'),  
  ...    ('Tom','Chaochih'), 
