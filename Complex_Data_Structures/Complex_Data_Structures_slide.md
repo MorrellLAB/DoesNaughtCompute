@@ -142,16 +142,18 @@ iteration
 ('Tom', 'Chaochih')   
 ('Paul', 'Shawn')
 ```
->>>#####index 
->>> `T.index(('Tom','Chaochih'))`   
+index 
+```python
+>>> T.index(('Tom','Chaochih'))   
 1  
->>> `del T[1:]`   
+
+>>> del T[1:]  
 Traceback (most recent call last):   
   File "`<stdin>`", line 1, in `<module>`   
 TypeError: 'tuple' object does not support   
 item deletion 
- 
->###Tuples' operations  
+```
+#Tuples' operations  
 >>> `T.pop()`  
 Traceback (most recent call last):   
   File "`<stdin>`", line 1, in `<module> `  
