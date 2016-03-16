@@ -298,70 +298,74 @@ Species: Haemophilus influenzae
              ]  
 ```
  
->>>#####We can similarly iterate over the list, however now we don’t need to call values with a key 
->>> `for record in enzymes:`   
->>>>>`print("Enzyme: " + record[1])`   
- `print("Species: " + record[2])` 
+```python
+#We can similarly iterate over the list, however now we don’t need to call values with a key 
+>>> for record in enzymes:   
+            print("Enzyme: " + record[1])   
+            print("Species: " + record[2])
 
->>>Enzyme: ApeKI   
+Enzyme: ApeKI   
 Species: Aeropyrum pernix   
 Enzyme: PstI   
 Species: Providencia stuartii   
 Enzyme: HindIII   
 Species: Haemophilus influenzae   
-
->###Dicts of sets 
-
->>>#####Create a dictionary of sets for enzymes used in GBS experiments (most of this is made up) 
->>>`enzyme_sets = {`   
->>>>>>>>`'maize' : {'ApeKI', 'HpaII', 'MseI'},`   
- `'wheat' : {'PstI', 'MspI', 'MseI', 'BamHI'},`   
- `'barley' : {'PstI', 'MspI', 'ApoI',},`   
- `'soybean' : {'ApeKI', 'SbfI', 'NdeI', 'ApoI'}`  
-`}` 
+```
+#Dicts of sets 
+```python
+#Create a dictionary of sets for enzymes used in GBS experiments (most of this is made up) 
+>>>enzyme_sets = { 
+                   'maize' : {'ApeKI', 'HpaII', 'MseI'},  
+                   'wheat' : {'PstI', 'MspI', 'MseI', 'BamHI'},  
+                   'barley' : {'PstI', 'MspI', 'ApoI',},  
+                   'soybean' : {'ApeKI', 'SbfI', 'NdeI', 'ApoI'}  
+                  }
 
  
->>>#####This allows us to quickly ask some questions, for instance: with what species can we use ‘ApeKI’? 
->>>`for species, enzyme in enzyme_sets.items():`   
->>>>>`if 'ApeKI' in enzyme:`    
->>>>>>>>>>`print(species)` 
-  
->###Dicts of tuples 
-
->>>#####If we are confident that elements are unique to records, we can store the information as a dictionary of 
->>>#####tuples for quick look-up 
->>>`enzymes = {`   
->>>>>>>`'ApeKI' :  ('Aeropyrum pernix', '[G|C]WGC'),`   
->>>>>>>`'PstI' : ('Providencia stuartii', 'CTGC[A|G]'),`  
->>>>>>>`'HindIII' : ('Haemophilus influenzae', '[A|A]GCTT')`   
->>>>>>>`}` 
+#This allows us to quickly ask some questions, for instance: with what species can we use ‘ApeKI’? 
+>>>for species, enzyme in enzyme_sets.items():  
+            if 'ApeKI' in enzyme:   
+                        print(species)
+ ``` 
  
->>>#####We can quickly access a record by using the element name 
->>> `my_record = enzymes.get('ApeKI')`   
-
->###Dicts of lists 
-
->>>#####A dict of lists allows one to look up multiple values from a single key 
->>> `dna = 'aattggaattggaattg'`   
->>>`k = 4`  
->>>`kmer2list = {}`   
->>>`for start in range(len(dna) - k + 1):`   
- >>>>>`kmer = dna[start:start+k]`   
- >>>>>`list_of_positions = kmer2list.get(kmer, [])` 
- >>>>>`list_of_positions.append(start)`   
- >>>>>`kmer2list[kmer] = list_of_positions`   
+#Dicts of tuples 
+```python
+#If we are confident that elements are unique to records, we can store the information as a dictionary of 
+#tuples for quick look-up 
+>>>enzymes = {  
+                'ApeKI' :  ('Aeropyrum pernix', '[G|C]WGC'),  
+                'PstI' : ('Providencia stuartii', 'CTGC[A|G]'),  
+                'HindIII' : ('Haemophilus influenzae', '[A|A]GCTT') 
+              } 
  
- >>> `print(kmer2list)`   
+#We can quickly access a record by using the element name 
+>>> my_record = enzymes.get('ApeKI')   
+```
+
+#Dicts of lists 
+```python
+#A dict of lists allows one to look up multiple values from a single key 
+>>> dna = 'aattggaattggaattg'   
+>>> k = 4  
+>>> kmer2list = {}   
+>>> for start in range(len(dna) - k + 1):  
+            kmer = dna[start:start+k]   
+            list_of_positions = kmer2list.get(kmer, [])
+            list_of_positions.append(start)  
+            kmer2list[kmer] = list_of_positions  
+ 
+ >>> print(kmer2list)  
  {'ggaa': [4, 10], 'aatt': [0, 6, 12], 'gaat': [5, 11], 'tgga': [3, 9], 'attg': [1, 7, 13], 'ttgg': [2, 8]} 
->>>#####We can then look up the positions of any one kmer 
->>> `print(kmer2list.get('aatt'))`   
- ######[0, 6, 12] 
- 
+
+#We can then look up the positions of any one kmer 
+>>> print(kmer2list.get('aatt'))   
+[0, 6, 12] 
+ ```
  
 
->###Exercise 2 
+#Exercise 2 
 
->>>Let’s reuse the `TAIR10_Chr4.gff` file from last session   
+Let’s reuse the `TAIR10_Chr4.gff` file from last session   
 For this exercise, find the start positions of all exons for each gene ID (i.e. 
 AT4G00570.1) and store them as a `dictionary of lists`. Next, find all exon start 
 positions for the gene id: `AT4G00570.1` 
