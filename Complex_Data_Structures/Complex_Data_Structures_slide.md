@@ -233,60 +233,59 @@ False
     - Need to be changed or extended 
     - Do not need  to be unique  
 
->When to use tuple:  
-* Store your data in logical immutable pairs, triples etc. 
-* Store data that doesn’t have to change   
+- When to use tuple:  
+    - Store your data in logical immutable pairs, triples etc. 
+    - Store data that doesn’t have to change   
 
->When to use set:  
-* A unique set of data 
-* Constantly changes: Sets, just like lists, are mutable 
-* Mathematically: difference, union, intersection, etc. 
-* Do not need to store nested lists, sets: Sets don’t support 
-unhashable types 
+- When to use set:  
+    - A unique set of data 
+    - Constantly changes: Sets, just like lists, are mutable 
+    - Mathematically: difference, union, intersection, etc. 
+    - Do not need to store nested lists, sets: Sets don’t support unhashable types 
 
->###Exercise1 
+#Exercise1 
 
->####Adapter trimming: 
->>The file seq.txt contains a number of DNA sequences, one per line. 
+Adapter trimming:   
+The file seq.txt contains a number of DNA sequences, one per line. 
 Each sequence starts with the same 14 base pair fragment – a 
 sequencing adapter that should have been removed. Write a program 
 that will (1) trim this adapter and write the cleaned sequences to a new 
 file and (2) print the length of each sequence to the screen.  
  
 
->###More Complex Structures 
+#More Complex Structures 
 
-* Lists of dicts 
+- Lists of dicts 
 
-* Lists of tuples 
+- Lists of tuples 
 
-* Dicts of lists 
+- Dicts of lists 
 
-* Dicts of sets 
+- Dicts of sets 
 
-* Dicts of tuples 
+- Dicts of tuples 
 
->###Lists of dicts
+#Lists of dicts
+```python
+#List of dictionaries
+>>> enzyme =[  
+...    {'name' : 'ApeKI', 'organism' : 'Aeropyrum pernix', 'site' : '[G|C]WGC'},    
+...    {'name' : 'PstI', 'organism' : 'Providencia stuartii', 'site' : 'CTGC[A|G]'},   
+...    {'name' : 'HindIII', 'organism' : 'Haemophilus influenzae', 'site' : '[A|A]GCTT'} 
+...    ]  
 
->>>#####List of dictionaries
->>>`enzyme =[`  
->>>>>>`{'name' : 'ApeKI', 'organism' : 'Aeropyrum pernix', 'site' : '[G|C]WGC'},`    
->>>`{'name' : 'PstI', 'organism' : 'Providencia stuartii', 'site' : 'CTGC[A|G]'},`   
->>>`{'name' : 'HindIII', 'organism' : 'Haemophilus influenzae', 'site' : '[A|A]GCTT'}`  
->>>`]`  
-
->>>#####We can iterate over the records and call upon dictionary values with a key 
->>>`for record in enzymes:`   
->>>>>`print("Enzyme: " + record['name'])`  
->>>>>`print("Species: " + record['organism'])`  
-
->>>Enzyme: ApeKI   
+#We can iterate over the records and call upon dictionary values with a key 
+>>>for record in enzymes:  
+        print("Enzyme: " + record['name'])  
+        print("Species: " + record['organism']) 
+        
+Enzyme: ApeKI   
 Species: Aeropyrum pernix   
 Enzyme: PstI 
 Species: Providencia stuartii   
 Enzyme: HindIII   
 Species: Haemophilus influenzae   
-
+```
 
 
 >###List of tuples 
