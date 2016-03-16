@@ -155,7 +155,7 @@ Traceback (most recent call last):
 TypeError: 'tuple' object does not support   
 item deletion 
 ```
-#Tuples' operations  
+#Operations of Tuples  
 ```python
 >>> T.pop()  
 Traceback (most recent call last):   
@@ -205,7 +205,7 @@ AttributeError: 'tuple' object has no attribute
 {1, 2, 3}  
 ```
 
-#Set operations 
+#Operations of sets
 ```python
 #Fast membership testing 
 >>> 1 in s   
