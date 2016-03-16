@@ -67,13 +67,14 @@
 >>> [1,2,3] + [4,5,6]
 [1, 2, 3, 4, 5, 6] 
 ```
-#repeat 
 ```python
+#repeat 
 >>> ['Li']*4  
 ['Li', 'Li', 'Li', 'Li'] 
 ```
-#iteration 
+
 ```python
+#iteration 
 >>> for x in L:    
         print (x) 
          
