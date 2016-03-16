@@ -1,35 +1,25 @@
 #Complex Data Structures 
-###_Does[0]compute?_   
-####March 11, 2016    
-####Li Lei & Jeffrey Neyhart   
+###_Does[0]compute?_ March 11, 2016    
+####Li Lei & Jeffrey Neyhart
+***   
 
-###Data Structures to Cover:  
-- **Less complex** 
-    - ####Lists 
-    - ####Sets 
-    - ####Tuples 
-    - ####Dicts 
-- ###**Somewhat complex** 
+# Data Structures to Cover:  
+- Less complex 
+    - Lists 
+    - Sets 
+    - Tuples 
+    - Dicts 
+- Somewhat complex 
+    - Lists of lists 
+    - Lists of dicts
+    - Lists of tuples 
+- More complex 
+    - Dicts of sets 
+    - Dicts of tuples 
+    - Dicts of lists 
+    - Nested lists 
 
-* ####Lists of lists 
-
-* ####Lists of dicts 
-
-* ####Lists of tuples 
-
->###**More complex** 
-
-* ####Dicts of sets 
-
-* ####Dicts of tuples 
-
-* ####Dicts of lists 
-
-* ####Nested lists 
-
-Newline
-
->###Lists, tuple, set and dict 
+# Lists, tuple, set and dict 
 
 
 | Type | What? |
@@ -42,14 +32,20 @@ Newline
 
 
 
->###Lists and lists of lists  
+# Lists and lists of lists  
 
->>>#####An empty list
->>>`L = [ ]`    
-#####four items : indexes 0..3 
->>>`L = [1, 2, 3, 4, 5]`  
->>> `print (L[0])`  
->>>#####1 
+An empty list
+```
+>>> L = [ ]
+```
+
+Four items : indexes 0..3
+``` 
+>>> L = [1, 2, 3, 4, 5]  
+>>> print (L[0])
+1
+```
+ 
 #####lists of lists, matrix 
 >>> ` L = [`    
 >>>>>`[1, 2, 3, 4],`    
