@@ -24,10 +24,10 @@
 
 | Type | What? |
 | ---- | ----- |
-| List | An **`unordered`**, **`mutable`** collection of primitive types |
-| Tuple | An **`unordered`**, **`unmutable`** collection of primitive types |
-| Set | An **`unordered`**, **`mutable`**, **`unique`** collection of primitive types |
-| Dict | An **`unordered`**, **`mutable`** collection of primitive types stored in **`key: value`** pairs | 
+| List | An `unordered`, **`mutable`** collection of primitive types |
+| Tuple | An `unordered`, **`unmutable`** collection of primitive types |
+| Set | An `unordered`, **`mutable`**, **`unique`** collection of primitive types |
+| Dict | An `unordered`, **`mutable`** collection of primitive types stored in **`key: value`** pairs | 
 
 
 
