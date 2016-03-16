@@ -62,54 +62,65 @@ index
 >>> print (L[1][2])   
 7 
 ```
+
 #Operations of lists  
->>>#####concatenate  
->>> `[1,2,3] + [4,5,6]`   
+concatenate  
+```python
+>>> [1,2,3] + [4,5,6]
 [1, 2, 3, 4, 5, 6] 
->>>#####repeat 
->>> `['Li']*4`  
+```
+repeat 
+```python
+>>> ['Li']*4  
 ['Li', 'Li', 'Li', 'Li'] 
->>>#####iteration 
->>> `for x in L:`     
->>>> `print (x)`  
+```
+iteration 
+```python
+>>> for x in L:    
+        print (x) 
+         
 [1, 2, 3, 4]   
 [5, 6, 7, 8]   
 [9, 10, 11, 12] 
-
->>>#####Methods  
->>> `L.append(4)`   
->>> `print (L)`   
+```
+Methods  
+```python
+>>> L.append(4)   
+>>> print (L)   
 [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], 4]  
->>> `L.extend([13,14,15,16])`   
->>> `print (L)`   
-[[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], 
-13, 14, 15, 16]  
->>>`L.pop()`   
+>>> L.extend([13,14,15,16])   
+>>> print (L)  
+[[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], 13, 14, 15, 16]  
+>>>L.pop()   
 [9, 10, 11,12]   
->>> `seq = ['A','G','T','C','G','G','T']`   
->>> `seq.reverse()`   
->>> `print (seq)`   
+>>> seq = ['A','G','T','C','G','G','T']   
+>>> seq.reverse()   
+>>> print (seq)   
 ['T', 'G', 'G', 'C', 'T', 'G', 'A']   
->>> `seq.insert(2,'basepairs')`   
->>> `print (seq)`   
+>>> seq.insert(2,'basepairs')   
+>>> print (seq)   
 ['A', 'G', 'basepairs', 'T', 'C', 'G', 'G', 'T']   
->>> `del L[1:]`  
->>> `print (L)`   
+>>> del L[1:] 
+>>> print (L)  
 [[1, 2, 3, 4]]   
-
->###Tuples  
->>>#####An empty tuple 
->>> `T = ()`  
->>>#####A four-item tuple 
->>> `T = (0,'Li','2','apples')`  
->>>#####Nested tuples 
->>> `T = (`  
->>>>>`('Li','Jeff'),`  
->>>>>`('Tom','Chaochih'),`  
->>>>>`('Paul','Shawn')`  
-  
->>>>>`)`
-    
+```
+#Tuples  
+An empty tuple 
+```python
+>>> T = ()
+```  
+A four-item tuple 
+```python
+>>> T = (0,'Li','2','apples')  
+```
+Nested tuples 
+```
+>>> T = (  
+ ...    ('Li','Jeff'),  
+ ...    ('Tom','Chaochih'), 
+ ...    ('Paul','Shawn')  
+ ...    )
+```   
 >>> `print (T[1])`     
 ('Tom', 'Chaochih')   
 >>> `print (T[1][0])`   
