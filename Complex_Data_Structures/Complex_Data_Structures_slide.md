@@ -114,17 +114,17 @@ A four-item tuple
 >>> T = (0,'Li','2','apples')  
 ```
 Nested tuples 
-```
+```python
 >>> T = (  
  ...    ('Li','Jeff'),  
  ...    ('Tom','Chaochih'), 
  ...    ('Paul','Shawn')  
  ...    )
-```   
->>> `print (T[1])`     
+>>>print (T[1])    
 ('Tom', 'Chaochih')   
->>> `print (T[1][0])`   
-#####Tom 
+>>>print (T[1][0])   
+Tom 
+```
  
 
 >>>#####Iteration 
