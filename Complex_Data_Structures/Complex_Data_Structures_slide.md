@@ -174,9 +174,12 @@ AttributeError: 'tuple' object has no attribute
 'extend' 
  ```
  
- >###Similarity vs. difference of lists and tuples   
->>>`Differences`  |   `Similarities` 
-
+#Similarity vs. difference of lists and tuples   
+| Differences | Similarities|
+| --- | --- |
+|1. |1. |
+|2. |1. | 
+|3. |3. |
 
 >###Sets 
 >>>#####A empty set 
