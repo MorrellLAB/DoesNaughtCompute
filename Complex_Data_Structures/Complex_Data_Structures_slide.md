@@ -33,21 +33,19 @@
 
 
 # Lists and lists of lists  
-
-An empty list
 ```python
+#An empty list
 >>> L = [ ]
 ```
-
-Four items : indexes 0..3
 ```python
+#Four items : indexes 0..3
 >>> L = [1, 2, 3, 4, 5]  
 >>> print (L[0])
 1
 ```
- 
-lists of lists, matrix 
-```python
+
+```python 
+#lists of lists, matrix 
 >>>  L = [   
     ...    [1, 2, 3, 4],
     ...    [5, 6, 7, 8],
