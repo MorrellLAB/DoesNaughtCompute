@@ -288,15 +288,15 @@ Species: Haemophilus influenzae
 ```
 
 
->###List of tuples 
-
->>>#####However if the order of dictionary items is constant, a list of tuples may be more appropriate 
->>>`enzymes = [`   
->>>>>>>`('ApeKI', 'Aeropyrum pernix', '[G|C]WGC'),`   
->>>>>>>`('PstI', 'Providencia stuartii', 'CTGC[A|G]'),`   
->>>>>>>`('HindIII', 'Haemophilus influenzae', '[A|A]GCTT')`   
->>>>>>>`]`   
-
+#List of tuples 
+```python
+#However if the order of dictionary items is constant, a list of tuples may be more appropriate 
+>>>enzymes = [   
+        ...    ('ApeKI', 'Aeropyrum pernix', '[G|C]WGC'), 
+        ...    ('PstI', 'Providencia stuartii', 'CTGC[A|G]'),  
+        ...    ('HindIII', 'Haemophilus influenzae', '[A|A]GCTT')   
+             ]  
+```
  
 >>>#####We can similarly iterate over the list, however now we don’t need to call values with a key 
 >>> `for record in enzymes:`   
