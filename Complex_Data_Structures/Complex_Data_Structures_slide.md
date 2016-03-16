@@ -46,21 +46,23 @@ Four items : indexes 0..3
 1
 ```
  
-#####lists of lists, matrix 
->>> ` L = [`    
->>>>>`[1, 2, 3, 4],`    
->>>>> `[5, 6, 7, 8],`     
->>>>> `[9, 10, 11, 12]`    
+lists of lists, matrix 
+```python
+>>>  L = [   
+     ...    [1, 2, 3, 4],
+     ...    [5, 6, 7, 8],
+     ...    [9, 10, 11, 12]
+     ... ] 
+``` 
 
->>>>>`]`    
-
->>>#####index
->>> `print (L[1])`   
-[5, 6, 7, 8]   
->>> `print (L[1][2])`   
+index
+```python
+>>> print (L[1])   
+[5, 6, 7, 8] 
+>>> print (L[1][2])   
 7 
-
->###Operations of lists  
+```
+#Operations of lists  
 >>>#####concatenate  
 >>> `[1,2,3] + [4,5,6]`   
 [1, 2, 3, 4, 5, 6] 
