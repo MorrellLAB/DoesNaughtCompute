@@ -371,9 +371,9 @@ Species: Haemophilus influenzae
 
 #Exercise 2 
 
-Let’s reuse the `TAIR10_Chr4.gff` file from last session   
-For this exercise, find the start positions of all exons for each gene ID (i.e. 
-AT4G00570.1) and store them as a `dictionary of lists`. Next, find all exon start 
-positions for the gene id: `AT4G00570.1` 
+Let’s reuse the `TAIR10_Chr4.gff` file from last session
+For this exercise, find the start positions of all exons for each gene ID (i.e. `AT4G00570.1`) and store them as a dictionary of lists. 
+Next, find all exon start positions for the gene id: `AT4G00570.1`
 
+One possible solution is given in the `complex_data_structures_demo.py` script in this directory.
 
