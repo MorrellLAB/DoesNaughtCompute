@@ -149,29 +149,30 @@ index
 
 >>> del T[1:]  
 Traceback (most recent call last):   
-  File "`<stdin>`", line 1, in `<module>`   
+  File "<stdin>", line 1, in <module>   
 TypeError: 'tuple' object does not support   
 item deletion 
 ```
 #Tuples' operations  
->>> `T.pop()`  
+```python
+>>> T.pop()  
 Traceback (most recent call last):   
-  File "`<stdin>`", line 1, in `<module> `  
+  File "<stdin>", line 1, in <module>  
 AttributeError: 'tuple' object has no attribute   
 'pop' 
  
->>> `T.sort()`   
+>>> T.sort()  
 Traceback (most recent call last):   
-  File "`<stdin>`", line 1, in `<module>` 
+  File "<stdin>", line 1, in <module> 
 AttributeError: 'tuple' object has no attribute   
 'sort' 
  
->>> `T.extend((2,3))`   
+>>> T.extend((2,3))   
 Traceback (most recent call last):   
-  File "`<stdin>`", line 1, in `<module>`  
+  File "<stdin>", line 1, in <module>  
 AttributeError: 'tuple' object has no attribute 
 'extend' 
- 
+ ```
  
  >###Similarity vs. difference of lists and tuples   
 >>>`Differences`  |   `Similarities` 
