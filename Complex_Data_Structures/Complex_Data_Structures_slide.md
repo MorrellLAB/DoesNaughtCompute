@@ -35,12 +35,12 @@
 # Lists and lists of lists  
 
 An empty list
-```
+```python
 >>> L = [ ]
 ```
 
 Four items : indexes 0..3
-``` 
+```python
 >>> L = [1, 2, 3, 4, 5]  
 >>> print (L[0])
 1
