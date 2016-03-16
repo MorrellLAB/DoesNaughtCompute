@@ -178,59 +178,60 @@ AttributeError: 'tuple' object has no attribute
 | Differences | Similarities|
 | --- | --- |
 |1. |1. |
-|2. |1. | 
+|2. |2. | 
 |3. |3. |
 
->###Sets 
->>>#####A empty set 
->>> `S = {}`    
->>>#####straightforward construct a set 
->>> `S = {1,2,3}`  
+#Sets 
+A empty set 
+```
+>>> S = {}    
+
+straightforward construct a set 
+>>> S = {1,2,3}  
  
->>>#####convert to set 
->>> `l = [1,2,3]`   
->>> `S = set(l)`   
->>> `S`   
+convert to set 
+>>> l = [1,2,3]   
+>>> S = set(l)   
+>>> S   
 {1, 2, 3} 
  
->>>#####uniq 
->>> `l = [1,2,3,3]`   
->>> `S = set(l)`   
->>> `S`    
+uniq 
+>>> l = [1,2,3,3]   
+>>> S = set(l)   
+>>> S    
 {1, 2, 3}  
-
->###Set operations 
->>>#####fast membership testing 
->>> `1 in s`   
+```
+#Set operations 
+```python
+#fast membership testing 
+>>> 1 in s   
 True   
->>> `4 in s`   
-False   
->>> `set1 = set(['Shawn','Paul','Chaochih','Tom','Li','Jeff'])`   
->>> `set2 = set(['Felipe','Skylar','Paul','Chaochih','Peter','Ana'])`   
->>>#####Union 
->>> `set1 |set2`   
-{'Chaochih', 'Li', 'Paul', 'Jeff', 'Felipe', 'Peter', 'Skylar', 'Shawn', 'Ana', 
-'Tom'} 
->>>#####Intersection 
->>>`set1 & set2`   
+>>> 4 in s   
+False 
+  
+>>> set1 = set(['Shawn','Paul','Chaochih','Tom','Li','Jeff'])   
+>>> set2 = set(['Felipe','Skylar','Paul','Chaochih','Peter','Ana'])   
+#union 
+>>> set1 |set2   
+{'Chaochih', 'Li', 'Paul', 'Jeff', 'Felipe', 'Peter', 'Skylar', 'Shawn', 'Ana', 'Tom'} 
+#intersection 
+>>> set1 & set2  
 {'Chaochih', 'Paul'} 
  
->>>#####difference 
->>> `set1 - set2`   
+#difference 
+>>> set1 - set2   
 {'Shawn', 'Tom', 'Li', 'Jeff'} 
  
-
->>>#####symmetric difference (elements that are in the first set and the second, but not in both) 
-
->>> `set1 ^ set2`   
+#symmetric difference (elements that are in the first set and the second, but not in both) 
+>>> set1 ^ set2   
 {'Tom', 'Felipe', 'Peter', 'Li', 'Skylar', 'Shawn', 'Ana', 'Jeff'} 
- 
->###Summary 
+```
+#Summary 
 
->When to use lists:   
-* Need to be ordered 
-* Need to be changed or extended 
-* Do not need  to be unique  
+- When to use lists:   
+    - Need to be ordered 
+    - Need to be changed or extended 
+    - Do not need  to be unique  
 
 >When to use tuple:  
 * Store your data in logical immutable pairs, triples etc. 
