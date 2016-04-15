@@ -6,7 +6,7 @@
 ---
 
 ## Chaochih Liu and Paul Hoffman
-### Does[0]Compute? April 8<sup>th</sup>, 2016
+### Does[0]Compute? April 15<sup>th</sup>, 2016
 
 ***
 
@@ -18,4 +18,4 @@
 
 Rewrite `Imperative_AT_Content.py` in a functional coding style
 
-*Answers will be available on Sunday, April 14<sup>th</sup>, 2016*
+*Answers will be available on Sunday, April 17<sup>th</sup>, 2016*
