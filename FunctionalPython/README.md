@@ -498,7 +498,7 @@ If you need multiple arguments, look at the `itertools` module
 
 Take the following code and rewrite it to follow the functional programming paradigm
 
-A fully commented version is available on the [GitHub](https://github.com/MorrellLAB/DoesNaughtCompute/tree/master/FunctionalPython)
+A fully commented version is available in `Imperative_AT_Content.py`
 
 ```python
 #!/usr/bin/env python3
@@ -520,4 +520,4 @@ for seq in sequences:
 utilities.showAT(ATcontent)
 ```
 
-*Answers will be available on Sunday, April 17<sup>th</sup>, 2016*
+One possible solution is available in `Functional_AT_Content.py`; this is not the only solution, so don't be alarmed if your version is different from the one provided!
