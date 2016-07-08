@@ -79,17 +79,6 @@ Writing more code does not mean more software!
 <!-- color: #f1f1f2 -->
 <!-- font: metronova -->
 
-# Example of Copying and Pasting
----
-
-![Copy & Paste](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Copy-paste_Example.png)
-
-***
-
-<!-- background: #000100 -->
-<!-- color: #f1f1f2 -->
-<!-- font: metronova -->
-
 # Code Duplication
 ---
 
@@ -98,6 +87,17 @@ Strongly advise against: cut-and-paste coding...
 ...especially if code is copied with slight changes
 
 <!-- show example code, maybe in R -->
+
+***
+
+<!-- background: #000100 -->
+<!-- color: #f1f1f2 -->
+<!-- font: metronova -->
+
+# Example of Copying and Pasting
+---
+
+![Copy & Paste](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Copy-paste_Example.png)
 
 ***
 
@@ -210,6 +210,19 @@ Do not remove code by commenting it out
 
 ***
 
+<!-- background: #063852 -->
+<!-- color: #f1f1f2 -->
+<!-- font: metronova -->
+
+# Discussion Question
+---
+
+What is a good comment?
+
+When is commenting inappropriate?
+
+***
+
 <!-- background: #000100 -->
 <!-- color: #f1f1f2 -->
 <!-- font: metronova -->
@@ -231,6 +244,8 @@ Reduce effort required to understand code
 ---
 
 Lines 161-166 of [Old version of sequence_handling](https://github.com/MorrellLAB/sequence_handling/blob/old/4_Quality_Trimming.sh)
+
+![Verbosity Example](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/verbosity_example.png)
 
 ***
 
@@ -260,6 +275,8 @@ Separate tidying up and functional changes
 Some coding standards mandate that every function is documented with specially formatted code comments. Is this useful? Or is it an unnecessary burden introducing a load of worthless extra comments?
 
 <sub> Question 5 from end of Chapter 3 (pg. 27) </sub>
+
+<!-- Divide room in half, have them write on the chalkboard -->
 
 ***
 
