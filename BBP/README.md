@@ -179,6 +179,17 @@ Do not remove code by commenting it out
 <!-- color: #f1f1f2 -->
 <!-- font: metronova -->
 
+# Example of Commenting Out Code
+---
+
+![]()
+
+***
+
+<!-- background: #000100 -->
+<!-- color: #f1f1f2 -->
+<!-- font: metronova -->
+
 # Verbosity
 ---
 
