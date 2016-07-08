@@ -7,6 +7,8 @@
 
 Go to this link: https://swipe.to/6340r
 
+![](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Write_Less_Code_Cartoon.png)
+
 ***
 
 <!-- background: #000100 -->
@@ -19,8 +21,6 @@ Go to this link: https://swipe.to/6340r
 #### Chaochih Liu and Peter Morrell
 
 July 8<sup>th</sup>, 2016
-
-![](https://github.com/MorrellLAB/DoesNaughtCompute/blob/master/BBP/images/Write_Less_Code_Cartoon.png)
 
 ***
 
