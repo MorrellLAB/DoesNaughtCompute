@@ -195,7 +195,7 @@ Reduce effort required to understand code
 # Example of Verbosity
 ---
 
-
+Lines 161-166 of [Old version of sequence_handling](https://github.com/MorrellLAB/sequence_handling/blob/old/4_Quality_Trimming.sh)
 
 ***
 
