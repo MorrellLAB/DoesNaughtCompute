@@ -79,6 +79,17 @@ Writing more code does not mean more software!
 <!-- color: #f1f1f2 -->
 <!-- font: metronova -->
 
+# Example of Copying and Pasting
+---
+
+![Copy & Paste](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Copy-paste_Example.png)
+
+***
+
+<!-- background: #000100 -->
+<!-- color: #f1f1f2 -->
+<!-- font: metronova -->
+
 # Code Duplication
 ---
 
@@ -87,6 +98,19 @@ Strongly advise against: cut-and-paste coding...
 ...especially if code is copied with slight changes
 
 <!-- show example code, maybe in R -->
+
+***
+
+<!-- background: #000100 -->
+<!-- color: #f1f1f2 -->
+<!-- font: metronova -->
+
+# Example of Avoiding Code Duplication
+---
+
+![Function](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Duplication_Example1.png)
+
+![Plotting](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/Duplication_Example2.png)
 
 ***
 
@@ -182,7 +206,7 @@ Do not remove code by commenting it out
 # Example of Commenting Out Code
 ---
 
-![]()
+![Ex. Commenting Out Code](https://raw.githubusercontent.com/MorrellLAB/DoesNaughtCompute/master/BBP/images/BBP_commentOutCode_Ex.png)
 
 ***
 
