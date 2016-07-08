@@ -79,22 +79,6 @@ Writing more code does not mean more software!
 <!-- color: #f1f1f2 -->
 <!-- font: metronova -->
 
-# Flappy Logic
----
-
-Unnecessary use of conditional statements
-
-Make code more compact and easier for humans to read
-
-<!-- change title -->
-<!-- write up example in R or python -->
-
-***
-
-<!-- background: #000100 -->
-<!-- color: #f1f1f2 -->
-<!-- font: metronova -->
-
 # Code Duplication
 ---
 
