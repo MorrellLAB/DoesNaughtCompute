@@ -78,7 +78,7 @@
 ### Week 12: Variant Detection
 #### Discussion Leader: Peter Morrell
  - GATK Part II
- - [SAMTools mpileup])http://www.htslib.org/doc/samtools.html)/[bcftools](http://www.htslib.org/doc/bcftools.html)
+ - [SAMTools mpileup](http://www.htslib.org/doc/samtools.html)/[bcftools](http://www.htslib.org/doc/bcftools.html)
    - [SAMTools SNP Calling Paper](http://www.ncbi.nlm.nih.gov/pubmed/21903627)
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
 
