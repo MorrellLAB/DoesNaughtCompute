@@ -46,7 +46,7 @@
 #### Discussion Leader:
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
-   - [Paper](http://www.nature.com/nmeth/index.html
+   - [Paper](http://www.nature.com/nmeth/index.html)
 
 ### Week 7: SAM Processing
 #### Discussion Leader:
