@@ -28,7 +28,7 @@
 ### Week 3: Sequence Cleaning and Quality Control
 #### Discussion Leader:
  - [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
- - [FASTX-toolkit](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+ - [FASTX-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
 
 ### Week 4: Sequence Cleaning and Quality Control
 #### Discussion Leader:
