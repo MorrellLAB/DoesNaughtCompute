@@ -26,12 +26,12 @@
    - [Paper](http://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0047-8)
 
 ### Week 3: Sequence Cleaning and Quality Control
-#### Discussion Leader:
+#### Discussion Leader: Corey Carter and *TBD*
  - [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
  - [FASTX-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
 
 ### Week 4: Sequence Cleaning and Quality Control
-#### Discussion Leader:
+#### Discussion Leader: Chaochih Liu
  - [Seqqs](https://github.com/vsbuffalo/seqqs)
  - [Sickle](https://github.com/najoshi/sickle)
  - [Scythe](https://github.com/vsbuffalo/scythe)
