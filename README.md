@@ -22,7 +22,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0047-8)
 
 ### September 29<sup>th</sup>, 2016: File Conversions and Other Utilities
-#### Discussion Leader: Li Lei and Paul Hoffman
+#### Discussion Leader: Chaochih Liu
  - [Plink 1.9](https://www.cog-genomics.org/plink2) Part II
    - [Paper](http://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0047-8)
 
