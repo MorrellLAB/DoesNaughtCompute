@@ -4,7 +4,7 @@
 
  - File Conversions and Other Utilities
  - Sequence Cleaning and Quality Control
- - Read Mapping
+ - Read Mapping with Short and Long Read Aligners
  - SAM Processing
  - Genomic Ranges
  - Variant Detection
@@ -27,7 +27,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0047-8)
 
 ### October 6<sup>th</sup>, 2016: Sequence Cleaning and Quality Control
-#### Discussion Leader: Corey Carter and *TBD*
+#### Discussion Leader:
  - [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
  - [FASTX-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
 
@@ -37,19 +37,19 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [Sickle](https://github.com/najoshi/sickle)
  - [Scythe](https://github.com/vsbuffalo/scythe)
 
-### October 20<sup>th</sup>, 2016: Read Mapping: Short Read Aligners
+### October 20<sup>th</sup>, 2016: Short Read Aligners
 #### Discussion Leader:
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
    - [Paper](http://www.nature.com/nmeth/index.html)
 
-### October 27<sup>th</sup>, 2016: Read Mapping: Short Read Aligners
+### October 27<sup>th</sup>, 2016: Short Read Aligners
 #### Discussion Leader:
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
    - [Paper](http://www.nature.com/nmeth/index.html)
 
-### Novermber 3<sup>rd</sup>, 2016: Read Mapping: Long Read Aligners
+### Novermber 3<sup>rd</sup>, 2016: Long Read Aligners
 #### Discussion Leader:
  - [BLASR](https://github.com/PacificBiosciences/blasr)
  - [MHAP](http://mhap.readthedocs.io/en/latest/index.html)
