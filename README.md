@@ -27,7 +27,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0047-8)
 
 ### October 6<sup>th</sup>, 2016: Sequence Cleaning and Quality Control
-#### Discussion Leader:
+#### Discussion Leader: Paul Hoffman
  - [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
  - [FASTX-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
 
