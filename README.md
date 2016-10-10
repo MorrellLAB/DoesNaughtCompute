@@ -50,7 +50,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://www.nature.com/nmeth/index.html)
 
 ### Novermber 3<sup>rd</sup>, 2016: Long Read Aligners
-#### Discussion Leader:
+#### Discussion Leader: Kevin Silverstein and Corey Carter
  - [BLASR](https://github.com/PacificBiosciences/blasr)
  - [MHAP](http://mhap.readthedocs.io/en/latest/index.html)
  - [DALINGER](https://github.com/thegenemyers/DALIGNER)
