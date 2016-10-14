@@ -38,13 +38,13 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [Scythe](https://github.com/vsbuffalo/scythe)
 
 ### October 20<sup>th</sup>, 2016: Short Read Aligners
-#### Discussion Leader:
+#### Discussion Leader: Peter Morrell
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
    - [Paper](http://www.nature.com/nmeth/index.html)
 
 ### October 27<sup>th</sup>, 2016: Short Read Aligners
-#### Discussion Leader:
+#### Discussion Leader: Ying Zhang
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
    - [Paper](http://www.nature.com/nmeth/index.html)
