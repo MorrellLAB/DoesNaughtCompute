@@ -48,9 +48,11 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
 
 ### October 27<sup>th</sup>, 2016: Short Read Aligners
 #### Discussion Leader: Ying Zhang
+ - [Benchmarking short sequence mapping tools](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-184)
  - [BWA](http://bio-bwa.sourceforge.net)
  - [Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
    - [Paper](http://www.nature.com/nmeth/journal/v9/n4/full/nmeth.1923.html)
+
 
 ### Novermber 3<sup>rd</sup>, 2016: Long Read Aligners
 #### Discussion Leader: Kevin Silverstein and Corey Carter
