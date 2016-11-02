@@ -74,7 +74,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [Picard](http://broadinstitute.github.io/picard/)
 
 ### December 1<sup>st</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
-#### Discussion Leader:
+#### Discussion Leader: Fernanda Rodriguez
 
 ### December 8<sup>th</sup>, 2016: Genomic Ranges
 #### Discussion Leader: Chaochih Liu
