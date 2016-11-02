@@ -68,7 +68,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [Picard](http://broadinstitute.github.io/picard/)
 
 ### November 17<sup>th</sup>, 2016: SAM Processing
-#### Discussion Leader:
+#### Discussion Leader: Colin Pierce 
  - [SAMTools](http://www.htslib.org/doc/samtools.html)
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/19505943)
  - [Picard](http://broadinstitute.github.io/picard/)
