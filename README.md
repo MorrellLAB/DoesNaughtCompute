@@ -68,7 +68,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [Picard](http://broadinstitute.github.io/picard/)
 
 ### November 17<sup>th</sup>, 2016: SAM Processing
-#### Discussion Leader: Colin Pierce 
+#### Discussion Leader: Colin Pierce
  - [SAMTools](http://www.htslib.org/doc/samtools.html)
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/19505943)
  - [Picard](http://broadinstitute.github.io/picard/)
@@ -83,17 +83,27 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [BEDOPS](https://bedops.readthedocs.io/en/latest/)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/28/14/1919.abstract)
 
-### December 15<sup>th</sup>, 2016: Variant Detection
+### December 15<sup>th</sup>, 2016: Advanced Software Installation
 #### Discussion Leader: Paul Hoffman
- - [GATK](https://software.broadinstitute.org/gatk/) Part I
-   - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
+ - [GCC/G++](https://gcc.gnu.org/)
+ - [`configure`](https://www.wikiwand.com/en/Configure_script)
+ - [GNU Make](http://www.gnu.org/software/make/)
+ - [CMake](https://cmake.org/)
+ - Java programs
+ - [`setup.py`](https://docs.python.org/3.5/distutils/setupscript.html)
+ - [Modulefiles](http://modules.sourceforge.net/)
 
 >---
 >Break for Winter Holidays
 >
 >---
 
-### Week of January 9<sup>th</sup>: Variant Detection
+### Week of January 16<sup>th</sup>: Variant Detection
+#### Discussion Leader:
+ - [GATK](https://software.broadinstitute.org/gatk/) Part I
+   - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
+
+### Week of January 23<sup>rd</sup>: Variant Detection
 #### Discussion Leader: Peter Morrell
  - [GATK](https://software.broadinstitute.org/gatk/) Part II
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
@@ -101,43 +111,43 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [SAMTools SNP Calling Paper](http://www.ncbi.nlm.nih.gov/pubmed/21903627)
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
 
-### Week of January 16<sup>th</sup>: Variant Detection
+### Week of January 30<sup>th</sup>: Variant Detection
 #### Discussion Leader:
  - [VCFtools](https://vcftools.github.io/index.html)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/27/15/2156)
  - [Platypus](http://www.well.ox.ac.uk/platypus)
    - [Paper](http://www.nature.com/ng/journal/v46/n8/full/ng.3036.html)
 
-### Week of January 23<sup>rd</sup>: Variant Annotation
+### Week of February 6<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
  - [SnpEff](http://snpeff.sourceforge.net/SnpEff.html)
    - [Paper](http://snpeff.sourceforge.net/SnpEff_paper.pdf)
  - [SnpSift](http://snpeff.sourceforge.net/SnpSift.html)
    - [Paper](http://journal.frontiersin.org/article/10.3389/fgene.2012.00035/full)
 
-### Week of January 30<sup>th</sup>: Variant Annotation
+###  Week of February 13<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
  - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
    - [Paper](http://nar.oxfordjournals.org/content/38/16/e164)
  - [ICE](http://geneprediction.org/ICE/)
 
-### Week of February 6<sup>th</sup>: Variant Annotation
+### Week of February 20<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
  - [BAD_Mutations](https://github.com/MorrellLAB/BAD_Mutations)
  - [SNPMeta](https://github.com/pmorrell/SNPMeta)
    - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract)
 
-### Week of February 13<sup>th</sup>: Quantitiave Genetics
+### Week of February 27<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Li Lei and Thomas Kono
  - [R/QTL](http://rqtl.org) Part I
    - [Paper](http://bioinformatics.oxfordjournals.org)
 
-### Week of February 20<sup>th</sup>: Quantitiave Genetics
+### Week of March 6<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Li Lei and Thomas Kono
  - [R/QTL](http://rqtl.org) Part II
    - [Paper](http://bioinformatics.oxfordjournals.org/content/19/7/889.long)
 
-### Week of February 27<sup>th</sup>: Quantitiave Genetics
+### Week of March 13<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
@@ -147,25 +157,25 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
 
-### Week of March 6<sup>th</sup>: Population Genetics
+### Week of March 27<sup>th</sup>: Population Genetics
 #### Discussion Leader: Paul Hoffman
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
-### Week of March 13<sup>th</sup>: Population Genetics
+### Week of April 3<sup>rd</sup>: Population Genetics
 #### Discussion Leader: Paul Hoffman
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
-### Week of March 20<sup>th</sup>: Population Genetics
+### Week of April 10<sup>th</sup>: Population Genetics
 #### Discussion Leader:
  - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
    - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
  - [LDhat](https://github.com/auton1/LDhat)
 
-### Week of March 27<sup>th</sup>: Population Genetics
+### Week of April 17<sup>th</sup>: Population Genetics
 #### Discussion Leader: Chaochih Liu
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
