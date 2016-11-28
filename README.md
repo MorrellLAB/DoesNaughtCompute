@@ -73,17 +73,8 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/19505943)
  - [Picard](http://broadinstitute.github.io/picard/)
 
-### December 1<sup>st</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
-#### Discussion Leader: Fernanda Rodriguez
 
-### December 8<sup>th</sup>, 2016: Genomic Ranges
-#### Discussion Leader: Chaochih Liu
- - [BEDTools](http://bedtools.readthedocs.io/en/latest/)
-   - [Paper](http://bioinformatics.oxfordjournals.org/content/26/6/841.short)
- - [BEDOPS](https://bedops.readthedocs.io/en/latest/)
-   - [Paper](http://bioinformatics.oxfordjournals.org/content/28/14/1919.abstract)
-
-### December 15<sup>th</sup>, 2016: Advanced Software Installation
+### December 1<sup>st</sup>, 2016: Advanced Software Installation
 #### Discussion Leader: Paul Hoffman
  - [GCC/G++](https://gcc.gnu.org/)
  - [`configure`](https://www.wikiwand.com/en/Configure_script)
@@ -92,6 +83,16 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - Java programs
  - [`setup.py`](https://docs.python.org/3.5/distutils/setupscript.html)
  - [Modulefiles](http://modules.sourceforge.net/)
+
+### December 15<sup>th</sup>, 2016: Genomic Ranges
+#### Discussion Leader: Chaochih Liu
+ - [BEDTools](http://bedtools.readthedocs.io/en/latest/)
+   - [Paper](http://bioinformatics.oxfordjournals.org/content/26/6/841.short)
+ - [BEDOPS](https://bedops.readthedocs.io/en/latest/)
+   - [Paper](http://bioinformatics.oxfordjournals.org/content/28/14/1919.abstract)
+
+### December 8<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
+#### Discussion Leader: Fernanda Rodriguez
 
 >---
 >Break for Winter Holidays
@@ -117,6 +118,8 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
    - [Paper](http://bioinformatics.oxfordjournals.org/content/27/15/2156)
  - [Platypus](http://www.well.ox.ac.uk/platypus)
    - [Paper](http://www.nature.com/ng/journal/v46/n8/full/ng.3036.html)
+ - Summary
+   - [Paper](http://www.nature.com/articles/srep17875)
 
 ### Week of February 6<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
