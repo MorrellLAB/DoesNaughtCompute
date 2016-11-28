@@ -84,15 +84,15 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
  - [`setup.py`](https://docs.python.org/3.5/distutils/setupscript.html)
  - [Modulefiles](http://modules.sourceforge.net/)
 
+### December 8<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
+#### Discussion Leader: Fernanda Rodriguez
+
 ### December 15<sup>th</sup>, 2016: Genomic Ranges
 #### Discussion Leader: Chaochih Liu
  - [BEDTools](http://bedtools.readthedocs.io/en/latest/)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/26/6/841.short)
  - [BEDOPS](https://bedops.readthedocs.io/en/latest/)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/28/14/1919.abstract)
-
-### December 8<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
-#### Discussion Leader: Fernanda Rodriguez
 
 >---
 >Break for Winter Holidays
