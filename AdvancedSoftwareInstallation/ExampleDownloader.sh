@@ -6,7 +6,7 @@ declare -a DEPENDENCIES=(git wget tar)
 for prog in ${DEPENDENCIES[@]}; do if ! $(command -v ${prog} > /dev/null 2>/dev/null); then echo "Failed to find ${prog}, exiting..." >&2; exit 1; fi; done
 
 ROOT=$(pwd -P)/examples
-mkdir -P ${ROOT}
+mkdir -p ${ROOT}
 
 echo -e "Now downloading SAMTools, BioPython, and Scythe to ${ROOT}" >&2
 
