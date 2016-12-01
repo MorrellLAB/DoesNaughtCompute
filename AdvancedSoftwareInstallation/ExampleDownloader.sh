@@ -14,7 +14,7 @@ echo -e "Now downloading SAMTools, BioPython, and Scythe to ${ROOT}" >&2
 echo "Downloading SAMTools" >&2
 cd ${ROOT}
 SAMTOOLS='samtools-1.3.1.tar.bz2'
-(set -x; wget -O ${SAMTOOLS} https://github.com/samtools/samtools/releases/download/1.3.1/samtools-1.3.1.tar.bz2)
+(set -x; wget --quiet -O ${SAMTOOLS} https://github.com/samtools/samtools/releases/download/1.3.1/samtools-1.3.1.tar.bz2)
 echo "Unpacking tarball" >&2
 (set -x; tar -xjf ${SAMTOOLS})
 echo "Cleaning up tarball" >&2
