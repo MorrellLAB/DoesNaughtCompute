@@ -12,4 +12,4 @@ git clone https://github.com/MorrellLAB/DoesNaughtCompute.git
 
 Or `git pull` to update if you have previously cloned the `DoesNaughtCompute` repository.
 
-The data will be located in `DoesNaughtCompute/Genomic_Ranges_and_Arithmetic/Data-BDS/`.
+The data will be located in `DoesNaughtCompute/Genomic_Ranges_and_Arithmetic/Data-Slides/`.
