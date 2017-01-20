@@ -13,9 +13,9 @@
  - Population Genetics
 
 ## Tentative Dates
-We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Fall 2016 semester
+We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester
 
-<a href="https://survey.zohopublic.com/zs/19ynpr">Click here to take a survey for the Spring 2017 semester days and times</a>
+<!--<a href="https://survey.zohopublic.com/zs/19ynpr">Click here to take a survey for the Spring 2017 semester days and times</a>
 
 ### September 22<sup>nd</sup>, 2016: File Conversions and Other Utilities
 #### Discussion Leader: Li Lei and Paul Hoffman
@@ -101,7 +101,7 @@ We meet every Thursday from 3:00 PM to 4:00 PM in 213 [Boralug Hall](http://camp
 >
 > <a href="https://survey.zohopublic.com/zs/19ynpr">Click here to take a survey for the Spring 2017 semester days and times</a>
 >
->---
+>----->
 
 ### January 24<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
 #### Discussion Leader: Fernanda Rodriguez
