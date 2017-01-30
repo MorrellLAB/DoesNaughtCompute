@@ -19,14 +19,14 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 #### Discussion Leader: Fernanda Rodriguez
 
 ### January 31<sup>st</sup>: Variant Detection
-#### Discussion Leader:
+#### Discussion Leader: Li Lei
  - [GATK](https://software.broadinstitute.org/gatk/) Part I
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
 
 ### February 7<sup>th</sup>: Variant Detection
 #### Discussion Leader: Peter Morrell
- - [GATK](https://software.broadinstitute.org/gatk/) Part II
-   - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
+ - [Freebayes](https://github.com/ekg/freebayes)
+   - [Paper](https://arxiv.org/pdf/1207.3907v2.pdf)
  - [SAMTools mpileup](http://www.htslib.org/doc/samtools.html)/[bcftools](http://www.htslib.org/doc/bcftools.html)
    - [SAMTools SNP Calling Paper](http://www.ncbi.nlm.nih.gov/pubmed/21903627)
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
@@ -81,7 +81,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 
 ### April 4<sup>th</sup>: Population Genetics
 #### Discussion Leader: Paul Hoffman
- - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
+ - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part I
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
@@ -98,7 +98,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
  - [LDhat](https://github.com/auton1/LDhat)
 
 ### April 25<sup>th</sup>: Population Genetics
-#### Discussion Leader: Chaochih Liu
+#### Discussion Leader:
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
  - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
