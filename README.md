@@ -19,7 +19,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 #### Discussion Leader: Fernanda Rodriguez
 
 ### January 31<sup>st</sup>: Variant Detection
-#### Discussion Leader:
+#### Discussion Leader: Li Lei
  - [GATK](https://software.broadinstitute.org/gatk/) Part I
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
 
@@ -41,7 +41,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [Paper](http://www.nature.com/articles/srep17875)
 
 ### February 21<sup>st</sup>: Variant Annotation
-#### Discussion Leader:
+#### Discussion Leader: 
  - [SnpEff](http://snpeff.sourceforge.net/SnpEff.html)
    - [Paper](http://snpeff.sourceforge.net/SnpEff_paper.pdf)
  - [SnpSift](http://snpeff.sourceforge.net/SnpSift.html)
