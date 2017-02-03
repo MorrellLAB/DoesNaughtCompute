@@ -18,12 +18,14 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 ### January 24<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
 #### Discussion Leader: Fernanda Rodriguez
 
-### January 31<sup>st</sup>: Variant Detection
+### January 31<sup>st</sup>: CANCELED
+
+### February 7<sup>st</sup>: Variant Detection
 #### Discussion Leader: Li Lei
  - [GATK](https://software.broadinstitute.org/gatk/) Part I
    - [Paper](http://www.ncbi.nlm.nih.gov/pubmed/20644199)
 
-### February 7<sup>th</sup>: Variant Detection
+### February 14<sup>th</sup>: Variant Detection
 #### Discussion Leader: Peter Morrell
  - [Freebayes](https://github.com/ekg/freebayes)
    - [Paper](https://arxiv.org/pdf/1207.3907v2.pdf)
@@ -31,7 +33,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [SAMTools SNP Calling Paper](http://www.ncbi.nlm.nih.gov/pubmed/21903627)
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
 
-### February 14<sup>th</sup>: Variant Detection
+### February 21<sup>th</sup>: Variant Detection
 #### Discussion Leader:
  - [VCFtools](https://vcftools.github.io/index.html)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/27/15/2156)
@@ -40,36 +42,36 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
  - Summary
    - [Paper](http://www.nature.com/articles/srep17875)
 
-### February 21<sup>st</sup>: Variant Annotation
-#### Discussion Leader: 
+### February 28<sup>st</sup>: Variant Annotation
+#### Discussion Leader:
  - [SnpEff](http://snpeff.sourceforge.net/SnpEff.html)
    - [Paper](http://snpeff.sourceforge.net/SnpEff_paper.pdf)
  - [SnpSift](http://snpeff.sourceforge.net/SnpSift.html)
    - [Paper](http://journal.frontiersin.org/article/10.3389/fgene.2012.00035/full)
 
-###  February 28<sup>th</sup>: Variant Annotation
+### March 7<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
  - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
    - [Paper](http://nar.oxfordjournals.org/content/38/16/e164)
  - [ICE](http://geneprediction.org/ICE/)
 
-### March 7<sup>th</sup>: Variant Annotation
+### March 14<sup>th</sup>: Variant Annotation
 #### Discussion Leader:
  - [BAD_Mutations](https://github.com/MorrellLAB/BAD_Mutations)
  - [SNPMeta](https://github.com/pmorrell/SNPMeta)
    - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract)
 
-### March 14<sup>th</sup>: Quantitiave Genetics
+### March 21<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Li Lei and Thomas Kono
  - [R/QTL](http://rqtl.org) Part I
    - [Paper](http://bioinformatics.oxfordjournals.org)
 
-### March 21<sup>st</sup>: Quantitiave Genetics
+### March 28<sup>st</sup>: Quantitiave Genetics
 #### Discussion Leader: Li Lei and Thomas Kono
  - [R/QTL](http://rqtl.org) Part II
    - [Paper](http://bioinformatics.oxfordjournals.org/content/19/7/889.long)
 
-### March 28<sup>th</sup>: Quantitiave Genetics
+### April 4<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
@@ -79,25 +81,25 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
 
-### April 4<sup>th</sup>: Population Genetics
-#### Discussion Leader: Paul Hoffman
- - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part I
-   - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
-   - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
-
 ### April 11<sup>th</sup>: Population Genetics
-#### Discussion Leader: Paul Hoffman
- - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
+#### Discussion Leader:
+ - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part I
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
 ### April 18<sup>th</sup>: Population Genetics
 #### Discussion Leader:
+ - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
+   - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
+   - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
+
+### April 25<sup>th</sup>: Population Genetics
+#### Discussion Leader:
  - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
    - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
  - [LDhat](https://github.com/auton1/LDhat)
 
-### April 25<sup>th</sup>: Population Genetics
+### May 2<sup>nd</sup>: Population Genetics
 #### Discussion Leader:
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
