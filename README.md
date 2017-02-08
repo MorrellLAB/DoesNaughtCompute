@@ -42,10 +42,10 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
  - [Summary Paper](http://www.nature.com/articles/srep17875)
 
 ### February 28<sup>st</sup>: Variant Annotation
-#### Discussion Leader:
+#### Discussion Leader: Tom Kono
  - [BAD_Mutations](https://github.com/MorrellLAB/BAD_Mutations)
- - [SNPMeta](https://github.com/pmorrell/SNPMeta)
-   - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract))
+ - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
+   - [Paper](http://nar.oxfordjournals.org/content/38/16/e164)
 
 ### March 7<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Li Lei
