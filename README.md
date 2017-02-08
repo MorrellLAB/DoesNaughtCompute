@@ -62,17 +62,17 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract)
 
 ### March 21<sup>th</sup>: Quantitiave Genetics
-#### Discussion Leader: Li Lei and Thomas Kono
+#### Discussion Leader:
  - [R/QTL](http://rqtl.org) Part I
    - [Paper](http://bioinformatics.oxfordjournals.org)
 
 ### March 28<sup>st</sup>: Quantitiave Genetics
-#### Discussion Leader: Li Lei and Thomas Kono
+#### Discussion Leader:
  - [R/QTL](http://rqtl.org) Part II
    - [Paper](http://bioinformatics.oxfordjournals.org/content/19/7/889.long)
 
 ### April 4<sup>th</sup>: Quantitiave Genetics
-#### Discussion Leader: Peter Morrell
+#### Discussion Leader:
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
    - [Imputing Paper](http://www.sciencedirect.com/science/article/pii/S0002929715004917)
@@ -82,13 +82,13 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
 
 ### April 11<sup>th</sup>: Population Genetics
-#### Discussion Leader:
+#### Discussion Leader: Chaochih Liu
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part I
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
 ### April 18<sup>th</sup>: Population Genetics
-#### Discussion Leader:
+#### Discussion Leader: Chaochih Liu
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
