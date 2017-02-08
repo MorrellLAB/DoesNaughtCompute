@@ -34,42 +34,35 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
 
 ### February 21<sup>st</sup>: Variant Detection
-#### Discussion Leader:
+#### Discussion Leader: Paul Hoffman
  - [VCFtools](https://vcftools.github.io/index.html)
    - [Paper](http://bioinformatics.oxfordjournals.org/content/27/15/2156)
  - [Platypus](http://www.well.ox.ac.uk/platypus)
    - [Paper](http://www.nature.com/ng/journal/v46/n8/full/ng.3036.html)
- - Summary
-   - [Paper](http://www.nature.com/articles/srep17875)
+ - [Summary Paper](http://www.nature.com/articles/srep17875)
 
 ### February 28<sup>st</sup>: Variant Annotation
 #### Discussion Leader:
- - [SnpEff](http://snpeff.sourceforge.net/SnpEff.html)
-   - [Paper](http://snpeff.sourceforge.net/SnpEff_paper.pdf)
- - [SnpSift](http://snpeff.sourceforge.net/SnpSift.html)
-   - [Paper](http://journal.frontiersin.org/article/10.3389/fgene.2012.00035/full)
-
-### March 7<sup>th</sup>: Variant Annotation
-#### Discussion Leader:
- - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
-   - [Paper](http://nar.oxfordjournals.org/content/38/16/e164)
- - [ICE](http://geneprediction.org/ICE/)
-
-### March 14<sup>th</sup>: Variant Annotation
-#### Discussion Leader:
  - [BAD_Mutations](https://github.com/MorrellLAB/BAD_Mutations)
  - [SNPMeta](https://github.com/pmorrell/SNPMeta)
-   - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract)
+   - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract))
 
-### March 21<sup>st</sup>: Quantitiave Genetics
-#### Discussion Leader:
+### March 7<sup>th</sup>: Quantitiave Genetics
+#### Discussion Leader: Li Lei
  - [R/QTL](http://rqtl.org) Part I
    - [Paper](http://bioinformatics.oxfordjournals.org)
 
-### March 28<sup>st</sup>: Quantitiave Genetics
-#### Discussion Leader:
+### March 14<sup>th</sup>: Quantitiave Genetics
+#### Discussion Leader: Li Lei
  - [R/QTL](http://rqtl.org) Part II
    - [Paper](http://bioinformatics.oxfordjournals.org/content/19/7/889.long)
+
+### March 21<sup>st</sup>: Quantitiave Genetics
+#### Discussion Leader: Alex Olhoff
+ - [R NAM](https://cran.r-project.org/web/packages/NAM/index.html)
+
+### March 28<sup>st</sup>: Big Data Visualization
+#### Discussion Leader: Alex Olhoff
 
 ### April 4<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader:
