@@ -61,7 +61,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
  - [SNPMeta](https://github.com/pmorrell/SNPMeta)
    - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12183/abstract)
 
-### March 21<sup>th</sup>: Quantitiave Genetics
+### March 21<sup>st</sup>: Quantitiave Genetics
 #### Discussion Leader:
  - [R/QTL](http://rqtl.org) Part I
    - [Paper](http://bioinformatics.oxfordjournals.org)
