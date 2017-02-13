@@ -54,7 +54,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [Paper](http://bioinformatics.oxfordjournals.org)
 
 ### March 14<sup>th</sup>: Quantitiave Genetics
-#### Discussion Leader: Li Lei
+#### Discussion Leader: Tom Kono
  - [R/QTL](http://rqtl.org) Part II
    - [Paper](http://bioinformatics.oxfordjournals.org/content/19/7/889.long)
 
