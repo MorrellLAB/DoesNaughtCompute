@@ -32,6 +32,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
  - [SAMTools mpileup](http://www.htslib.org/doc/samtools.html)/[bcftools](http://www.htslib.org/doc/bcftools.html)
    - [SAMTools SNP Calling Paper](http://www.ncbi.nlm.nih.gov/pubmed/21903627)
    - [bcftools Paper](http://samtools.github.io/bcftools/call-m.pdf)
+   - [SAMTools Mapping to Variant Calls](http://www.htslib.org/workflow/#mapping_to_variant)
 
 ### February 21<sup>st</sup>: Variant Detection
 #### Discussion Leader: Paul Hoffman
