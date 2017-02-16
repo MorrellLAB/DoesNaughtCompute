@@ -42,7 +42,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [Paper](http://www.nature.com/ng/journal/v46/n8/full/ng.3036.html)
  - [Summary Paper](http://www.nature.com/articles/srep17875)
 
-### February 28<sup>st</sup>: Variant Annotation
+### February 28<sup>th</sup>: Variant Annotation
 #### Discussion Leader: Tom Kono
  - [BAD_Mutations](https://github.com/MorrellLAB/BAD_Mutations)
  - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
@@ -62,7 +62,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 #### Discussion Leader: Alex Olhoff
  - [R NAM](https://cran.r-project.org/web/packages/NAM/index.html)
 
-### March 28<sup>st</sup>: Big Data Visualization
+### March 28<sup>th</sup>: Big Data Visualization
 #### Discussion Leader: Alex Olhoff
 
 ### April 4<sup>th</sup>: Quantitiave Genetics
