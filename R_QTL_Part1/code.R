@@ -1,3 +1,4 @@
+#This code is for your practicing how to use R to scan qtl with known genetic positions of markers.
 #1. Read file
 install.packages("qtl")
 library(qtl)
