@@ -66,7 +66,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 #### Discussion Leader: Alex Olhoff
 
 ### April 4<sup>th</sup>: Quantitiave Genetics
-#### Discussion Leader:
+#### Discussion Leader: Peter Morrell
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
    - [Imputing Paper](http://www.sciencedirect.com/science/article/pii/S0002929715004917)
