@@ -93,13 +93,16 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
  - [LDhat](https://github.com/auton1/LDhat)
 
-### May 2<sup>nd</sup>: Population Genetics
+### May 2<sup>nd</sup>: 10xgenomics data analysis 
+#### Discussion Leader:John R Garbe in UMGC
+ - Pending
+
+### May 9<sup>nd</sup>: Population Genetics
 #### Discussion Leader:
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
  - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
    - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752134/)
-
 ---
 
 ## Fall 2016 Meetings and Materials
