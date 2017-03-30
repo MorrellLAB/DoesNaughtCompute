@@ -65,7 +65,11 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 ### March 28<sup>th</sup>: Big Data Visualization
 #### Discussion Leader: Alex Olhoff
 
-### April 4<sup>th</sup>: Quantitiave Genetics
+### April 4<sup>th</sup>: Break
+
+Weekly meetings will resume next week.
+
+### April 11<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
@@ -75,29 +79,29 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
    - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
 
-### April 11<sup>th</sup>: Population Genetics
+### April 18<sup>th</sup>: Population Genetics
 #### Discussion Leader: Chaochih Liu
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part I
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
-### April 18<sup>th</sup>: Population Genetics
+### April 25<sup>th</sup>: Population Genetics
 #### Discussion Leader: Chaochih Liu
  - [ANGSD](http://www.popgen.dk/wiki/index.php/ANGSD)/[ANGSD-wrapper](https://github.com/mojaveazure/angsd-wrapper) Part II
    - [ANGSD Paper](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0356-4)
    - [ANGSD-wrapper Paper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/abstract;jsessionid=A7491A25E5383E19EEC7193A9D3AF8E4.f01t03)
 
-### April 25<sup>th</sup>: Population Genetics
+### May 2<sup>th</sup>: Population Genetics
 #### Discussion Leader:
  - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
    - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
  - [LDhat](https://github.com/auton1/LDhat)
 
-### May 2<sup>nd</sup>: 10xgenomics data analysis 
+### May 9<sup>nd</sup>: 10x genomics data analysis
 #### Discussion Leader:John R Garbe in UMGC
  - Pending
 
-### May 9<sup>nd</sup>: Population Genetics
+### May 16<sup>nd</sup>: Population Genetics
 #### Discussion Leader:
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)

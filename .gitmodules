@@ -1,6 +1,0 @@
-[submodule "BestPractices"]
-	path = BestPractices
-	url = https://github.com/sgoggins42/BestPractices.git
-[submodule "Exception_Handling/genotype_conversion"]
-	path = Exception_Handling/genotype_conversion
-	url = https://github.com/pmorrell/genotype_conversion.git
