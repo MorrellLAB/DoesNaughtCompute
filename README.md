@@ -69,7 +69,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 
 Break, we will resume weekly discussions next week on April 11th.
 
-### April 11<sup>th</sup>: Quantitiave Genetics
+### April 13<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
  - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
    - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
