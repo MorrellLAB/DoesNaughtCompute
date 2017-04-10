@@ -15,6 +15,10 @@
 ## Tentative Dates
 We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester
 
+---
+
+## Spring 2017 Meetings and Materials
+
 ### January 24<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
 #### Discussion Leader: Fernanda Rodriguez
 
@@ -67,17 +71,11 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 
 ### April 4<sup>th</sup>:
 
-Break, we will resume weekly discussions next week on April 11th.
+Break, we will resume weekly discussions in two weeks on April 18th.
 
-### April 13<sup>th</sup>: Quantitiave Genetics
-#### Discussion Leader: Peter Morrell
- - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
-   - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
-   - [Imputing Paper](http://www.sciencedirect.com/science/article/pii/S0002929715004917)
-   - [IBD Detection Paper](http://www.genetics.org/content/194/2/459)
- - [PHASE](http://stephenslab.uchicago.edu/software.html#phase)/[fastPHASE](http://stephenslab.uchicago.edu/software.html#fastphase)
-   - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
-   - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
+### April 13<sup>th</sup>:
+
+Break, we will resume weekly discussions next week on April 18th.
 
 ### April 18<sup>th</sup>: Population Genetics
 #### Discussion Leader: Chaochih Liu
@@ -95,14 +93,24 @@ Break, we will resume weekly discussions next week on April 11th.
 #### Discussion Leader:John R Garbe in UMGC
  - Pending
 
-### May 9<sup>th</sup>: Population Genetics
-#### Discussion Leader:
+### May 9<sup>th</sup>: Quantitiave Genetics
+#### Discussion Leader: Peter Morrell
+ - [BEAGLE](http://faculty.washington.edu/browning/beagle/beagle.html)
+   - [Phasing Paper](http://www.sciencedirect.com/science/article/pii/S0002929707638828)
+   - [Imputing Paper](http://www.sciencedirect.com/science/article/pii/S0002929715004917)
+   - [IBD Detection Paper](http://www.genetics.org/content/194/2/459)
+ - [PHASE](http://stephenslab.uchicago.edu/software.html#phase)/[fastPHASE](http://stephenslab.uchicago.edu/software.html#fastphase)
+   - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
+   - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
+
+### May 16<sup>th</sup>: Population Genetics
+#### Discussion Leader: TBD
  - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
    - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
  - [LDhat](https://github.com/auton1/LDhat)
 
-### May 16<sup>th</sup>: Population Genetics
-#### Discussion Leader:
+### May 23<sup>rd</sup>: Population Genetics
+#### Discussion Leader: TBD
  - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
    - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
  - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
