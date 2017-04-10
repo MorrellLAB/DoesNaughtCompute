@@ -73,7 +73,7 @@ We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campu
 
 Break, we will resume weekly discussions in two weeks on April 18th.
 
-### April 13<sup>th</sup>:
+### April 11<sup>th</sup>:
 
 Break, we will resume weekly discussions next week on April 18th.
 
