@@ -94,7 +94,7 @@ Software:
 # Input formats supported by ANGSD
 ---
 
-![](http://yuml.me/diagram/dir:LR/class/[sequence%20data%7CBAM;CRAM;mpileup%7Bbg:orange%7D]-[genotype;likelihoods%7CVCF;GLF;beagle%7Bbg:orange%7D],%20[genotype;likelihoods%7CVCF;GLF;beagle%7Bbg:orange%7D]-[genotype;probability%7Cbeagle%7Bbg:orange%7D])
+![](https://yuml.me/diagram/dir:LR/class/[sequence%20data%7CBAM;CRAM;mpileup%7Bbg:orange%7D]-[genotype;likelihoods%7CVCF;GLF;beagle%7Bbg:orange%7D],%20[genotype;likelihoods%7CVCF;GLF;beagle%7Bbg:orange%7D]-[genotype;probability%7Cbeagle%7Bbg:orange%7D])
 
 <sub>Citation: http://www.popgen.dk/angsd/index.php/Input </sub>
 
