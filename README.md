@@ -91,7 +91,7 @@ Break, we will resume weekly discussions next week on April 18th.
 
 ### May 2<sup>nd</sup>: 10xgenomics data analysis
 #### Discussion Leader:John R Garbe in UMGC
- - Pending
+ - [slides](https://github.com/MorrellLAB/DoesNaughtCompute/tree/master/10xgenomic_sequencing)
 
 ### May 9<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
@@ -102,6 +102,9 @@ Break, we will resume weekly discussions next week on April 18th.
  - [PHASE](http://stephenslab.uchicago.edu/software.html#phase)/[fastPHASE](http://stephenslab.uchicago.edu/software.html#fastphase)
    - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
+ - other reference papers
+   - [Allele-specific PCR can improve the efficiency of experimental resolution of heterozygotes in resequencing studies](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2009.02804.x/abstract)
+   - [Error detection in SNP data by considering the likelihood of recombinational history implied by three-site combinations](https://academic.oup.com/bioinformatics/article/23/14/1807/190632/Error-detection-in-SNP-data-by-considering-the)
 
 ### May 16<sup>th</sup>: Population Genetics
 #### Discussion Leader: TBD
