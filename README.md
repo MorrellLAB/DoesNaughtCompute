@@ -13,13 +13,54 @@
  - Population Genetics
 
 ## Tentative Dates
-We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester
+We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester. Starting May 16<sup>th</sup>, we meet every other Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall).
+
+---
+
+## Summer 2017 Meetings and Materials
+
+### May 16<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) various frameworks
+#### Group Discussion: Jigsaw Learning Strategy
+Each person will pick one paper to read before the discussion. Groups will be divided based on the paper chosen.
+#### Materials:
+- [Thornton (2014). A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations. *Genetics*.](http://www.genetics.org/content/198/1/157)
+- [`fwdpy` Documentation](https://molpopgen.github.io/fwdpy_manual/index.html)
+- [Thornton et al. (2013). Properties and Modeling of GWAS when Complex Disease Risk is Due to Non-Complementing, Deleterious Mutations in Genes of Large Effect. *PLOS Genetics*.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003258)
+- [Baldwin-Brown et al. (2014). The Power to Detect Quantitative Trait Loci Using Resequenced, Experimentally Evolved Populations of Diploid, Sexual Organisms. *Molecular Biology and Evolution*.](https://academic.oup.com/mbe/article/31/4/1040/1108505/The-Power-to-Detect-Quantitative-Trait-Loci-Using)
+
+### May 30<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### June 13<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### June 27<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### July 11<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### July 25<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### August 8<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### August 22<sup>nd</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
 
 ---
 
 ## Spring 2017 Meetings and Materials
 
-### January 24<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
+### January 24<sup>th</sup>, 2017: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
 #### Discussion Leader: Fernanda Rodriguez
 
 ### January 31<sup>st</sup>: CANCELED
