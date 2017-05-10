@@ -13,7 +13,7 @@
  - Population Genetics
 
 ## Tentative Dates
-We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester. Starting May 16<sup>th</sup>, we meet every other Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall).
+Starting **May 16<sup>th</sup>**, we meet every other Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall).
 
 ---
 
