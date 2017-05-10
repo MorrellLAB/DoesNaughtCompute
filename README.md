@@ -148,19 +148,6 @@ Break, we will resume weekly discussions next week on April 18th.
    - [Allele-specific PCR can improve the efficiency of experimental resolution of heterozygotes in resequencing studies](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2009.02804.x/abstract)
    - [Error detection in SNP data by considering the likelihood of recombinational history implied by three-site combinations](https://academic.oup.com/bioinformatics/article/23/14/1807/190632/Error-detection-in-SNP-data-by-considering-the)
 
-### May 16<sup>th</sup>: Population Genetics
-#### Discussion Leader: TBD
- - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
-   - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
- - [LDhat](https://github.com/auton1/LDhat)
-
-### May 23<sup>rd</sup>: Population Genetics
-#### Discussion Leader: TBD
- - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
-   - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
- - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
-   - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752134/)
-
 ---
 
 ## Fall 2016 Meetings and Materials
