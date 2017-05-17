@@ -29,8 +29,8 @@ Each person will pick one paper to read before the discussion. Groups will be di
 - [Thornton et al. (2013). Properties and Modeling of GWAS when Complex Disease Risk is Due to Non-Complementing, Deleterious Mutations in Genes of Large Effect. *PLOS Genetics*.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003258)
 - [Baldwin-Brown et al. (2014). The Power to Detect Quantitative Trait Loci Using Resequenced, Experimentally Evolved Populations of Diploid, Sexual Organisms. *Molecular Biology and Evolution*.](https://academic.oup.com/mbe/article/31/4/1040/1108505/The-Power-to-Detect-Quantitative-Trait-Loci-Using)
 
-### May 30<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
-#### Discussion Leader: TBD
+### May 30<sup>th</sup>: [`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: Colin Pierce
 #### Materials: TBD
 
 ### June 13<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
