@@ -13,13 +13,55 @@
  - Population Genetics
 
 ## Tentative Dates
-We meet every Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall) for the Spring 2017 semester
+Starting **May 16<sup>th</sup>**, we meet every other Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall).
+
+---
+
+## Summer 2017 Meetings and Materials
+
+### May 16<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) various frameworks
+#### Group Discussion: Jigsaw Learning Strategy
+Each person will pick one paper to read before the discussion. Groups will be divided based on the paper chosen.
+#### Materials:
+- Handbook of statistical genetics by D.J. Balding - **Chapter 25: Coalescent Theory** (Book is available for checkout at UMN libraries or contact Li Lei at llei@umn.edu)
+- [Thornton (2014). A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations. *Genetics*.](http://www.genetics.org/content/198/1/157)
+- [`fwdpy` Documentation](https://molpopgen.github.io/fwdpy_manual/index.html)
+- [Thornton et al. (2013). Properties and Modeling of GWAS when Complex Disease Risk is Due to Non-Complementing, Deleterious Mutations in Genes of Large Effect. *PLOS Genetics*.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003258)
+- [Baldwin-Brown et al. (2014). The Power to Detect Quantitative Trait Loci Using Resequenced, Experimentally Evolved Populations of Diploid, Sexual Organisms. *Molecular Biology and Evolution*.](https://academic.oup.com/mbe/article/31/4/1040/1108505/The-Power-to-Detect-Quantitative-Trait-Loci-Using)
+
+### May 30<sup>th</sup>: [`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: Colin Pierce
+#### Materials: TBD
+
+### June 13<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### June 27<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) simulation
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### July 11<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### July 25<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### August 8<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
+
+### August 22<sup>nd</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
+#### Discussion Leader: TBD
+#### Materials: TBD
 
 ---
 
 ## Spring 2017 Meetings and Materials
 
-### January 24<sup>th</sup>, 2016: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
+### January 24<sup>th</sup>, 2017: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling)
 #### Discussion Leader: Fernanda Rodriguez
 
 ### January 31<sup>st</sup>: CANCELED
@@ -91,7 +133,7 @@ Break, we will resume weekly discussions next week on April 18th.
 
 ### May 2<sup>nd</sup>: 10xgenomics data analysis
 #### Discussion Leader:John R Garbe in UMGC
- - Pending
+ - [slides](https://github.com/MorrellLAB/DoesNaughtCompute/tree/master/10xgenomic_sequencing)
 
 ### May 9<sup>th</sup>: Quantitiave Genetics
 #### Discussion Leader: Peter Morrell
@@ -102,19 +144,9 @@ Break, we will resume weekly discussions next week on April 18th.
  - [PHASE](http://stephenslab.uchicago.edu/software.html#phase)/[fastPHASE](http://stephenslab.uchicago.edu/software.html#fastphase)
    - [PHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Stephens2003a.pdf)
    - [fastPHASE Paper](http://stephenslab.uchicago.edu/assets/papers/Scheet2006.pdf)
-
-### May 16<sup>th</sup>: Population Genetics
-#### Discussion Leader: TBD
- - [hierfstat](https://cran.r-project.org/web/packages/hierfstat/index.html)
-   - [Paper](http://www2.unil.ch/popgen/research/reprints/goudet_men_2005.pdf)
- - [LDhat](https://github.com/auton1/LDhat)
-
-### May 23<sup>rd</sup>: Population Genetics
-#### Discussion Leader: TBD
- - [STRUCTURE](http://pritchardlab.stanford.edu/structure.html)
-   - [Paper](http://pritchardlab.stanford.edu/publications/pdfs/PritchardEtAl00.pdf)
- - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
-   - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752134/)
+ - other reference papers
+   - [Allele-specific PCR can improve the efficiency of experimental resolution of heterozygotes in resequencing studies](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2009.02804.x/abstract)
+   - [Error detection in SNP data by considering the likelihood of recombinational history implied by three-site combinations](https://academic.oup.com/bioinformatics/article/23/14/1807/190632/Error-detection-in-SNP-data-by-considering-the)
 
 ---
 
