@@ -41,9 +41,9 @@ Each person will pick one paper to read before the discussion. Groups will be di
 #### Discussion Leader: TBD
 #### Materials: TBD
 
-### July 11<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
-#### Discussion Leader: TBD
-#### Materials: TBD
+### July 11<sup>th</sup>: [SLiM](https://messerlab.org/slim/) Forward Simulations Tool
+#### Discussion Leader: Hands on group discussion with Chaochih and Li facilitating
+#### Materials: [SLiM Manual Ch 5: Demography and Population Structure](http://benhaller.com/slim/SLiM_Manual.pdf) (page 46)
 
 ### July 25<sup>th</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
 #### Discussion Leader: TBD
