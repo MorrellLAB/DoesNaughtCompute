@@ -53,8 +53,8 @@ Each person will pick one paper to read before the discussion. Groups will be di
 #### Discussion Leader: TBD
 #### Materials: TBD
 
-### August 22<sup>nd</sup>: [`fwdpp`](http://molpopgen.github.io/fwdpp/)/[`fwdpy`](http://molpopgen.github.io/fwdpy/)/[`fwdpy11`](https://molpopgen.github.io/fwdpy11/) project
-#### Discussion Leader: TBD
+### August 29<sup>nd</sup>: [`Non-MSI resopurces: XSEDE`]
+#### Discussion Leader: Andrew Gustafson and Benjamin Lynch
 #### Materials: TBD
 
 ---
