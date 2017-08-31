@@ -53,7 +53,7 @@ Each person will pick one paper to read before the discussion. Groups will be di
 #### Discussion Leader: TBD
 #### Materials: TBD
 
-### August 29<sup>nd</sup>: [`Non-MSI resopurces: XSEDE`]
+### August 29<sup>nd</sup>: [`Non-MSI resopurces: XSEDE`](https://github.com/MorrellLAB/DoesNaughtCompute/blob/master/XSEDE/xsede.pdf)
 #### Discussion Leader: Andrew Gustafson and Benjamin Lynch
 #### Materials: TBD
 
