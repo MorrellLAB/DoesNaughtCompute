@@ -8,7 +8,7 @@ Beginner Session
 - Vince Buffalo's [*Bioinformatics Data Skills*](http://shop.oreilly.com/product/0636920030157.do)
 - Slides are posted in: **`Beginner_session_fall_2017`**
 
-Intermediate/Advanced Session
+Advanced Session
 - Luciano Romalho's [*Fluent Python*](http://shop.oreilly.com/product/0636920032519.do)
 - Slides are posted in: **`Advanced_session_fall_2017`**
 
