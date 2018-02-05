@@ -1,3 +1,10 @@
+# Does[0]compute? Spring 2018
+
+During the spring 2018 semester, we will be having discussions on various computing topics. Please see 
+the [Morrell Lab - Does[0]Compute? website](http://morrelllab.github.io/compute/) for a full list of topics.
+
+---
+
 # Does[0]compute? Fall 2017
 
 Full schedule for Fall 2017 is located on the [Morrell Lab - Does[0]Compute? website](http://morrelllab.github.io/compute/).
