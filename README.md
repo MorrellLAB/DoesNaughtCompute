@@ -1,4 +1,4 @@
-# Does[0]compute? Fall 2017 &ndash; Spring 2018
+# Does[0]compute? Fall 2017
 
 Full schedule for Fall 2017 is located on the [Morrell Lab - Does[0]Compute? website](http://morrelllab.github.io/compute/).
 
