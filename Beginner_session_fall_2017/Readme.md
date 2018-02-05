@@ -4,6 +4,6 @@ All presentation slides, code, and sample data sets for the beginner session of 
 
 The reference book is [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do) written by Vince Buffalo.
 
-The beginner session will meet every other Wednesday (when we are NOT meeting for the advanced sessions) in Borlaug 213 from 10:30-11:30am! For a full schedule, please reference the [Morrell Lab - Does[0]Compute? website](http://morrelllab.github.io/compute/).
+For a full up to date schedule, please reference the [Morrell Lab - Does[0]Compute? website](http://morrelllab.github.io/compute/).
 
 Slides from previous years of discussing this book are available on GitHub at [MorrellLAB/Applied-Bioinformatics-Discussion](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion).
