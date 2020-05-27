@@ -1,4 +1,4 @@
-# Does[0]Compute Fall 2016 &ndash; Spring 2017 Syllabus
+# Does[0]Compute Fall 2016 &ndash; Present Syllabus
 
 ## Topics Covered
 
@@ -11,9 +11,6 @@
  - Variant Annotation
  - Quantitiave Genetics
  - Population Genetics
-
-## Tentative Dates
-Starting **May 16<sup>th</sup>**, we meet every other Tuesday from 2:00 PM to 3:00 PM in 213 [Boralug Hall](http://campusmaps.umn.edu/borlaug-hall).
 
 ---
 
